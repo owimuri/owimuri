@@ -1,6 +1,7 @@
 # hi, i'm muri!🌸
 
 ![banner](https://github.com/owimuri/owimuri/blob/main/banner.gif)
+
 *a sweet corner in the world of code*
 
 ---
