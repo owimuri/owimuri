@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, i'm muri!🌸
 
-<!--
-**owimuri/owimuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://github.com/owimuri/owimuri/blob/main/banner.gif)
+*a sweet corner in the world of code*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me💮
+i'm a novice developer who likes to create something beautiful and useful. my profile is the place where i share my projects. i'm inspired by pastel colors, cute style and cozy atmosphere!
+
+- 📔 learning to program on my own and exploring new technologies
+- 🎀 can't resist everything nice and cozy
+- ☘️ believe that the project was a success only if it benefits people
