@@ -12,3 +12,20 @@ i'm a novice developer who likes to create something beautiful and useful. my pr
 - 📔 learning to program on my own and exploring new technologies
 - 🎀 can't resist everything nice and cozy
 - ☘️ believe that the project was a success only if it benefits people
+
+---
+
+## my projects💻
+here are a few projects that i'm proud of:
+- **[calculator](https://github.com/owimuri/calculator)** — a simple retro calculator with a space pixel theme, designed to perform basic mathematical operations
+
+*there will be more interesting things here soon!*
+
+---
+
+## contact me🔗
+- 🌐 telegram: [my telegram](https://t.me/owimuri)
+
+---
+
+*thanks for checking out my profile!*
