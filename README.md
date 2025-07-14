@@ -17,7 +17,8 @@ i'm a novice developer who likes to create something beautiful and useful. my pr
 
 ## my projects💻
 here are a few projects that i'm proud of:
-- **[calculator](https://github.com/owimuri/calculator)** — a simple retro calculator with a space pixel theme, designed to perform basic mathematical operations
+- **[calculator](https://owimuri.github.io/calculator/)** — a simple retro calculator with a space pixel theme, designed to perform basic mathematical operations
+- **[tasklist](https://owimuri.github.io/tasklist/)** — a simple, minimalistic tasklist web-application
 
 *there will be more interesting things here soon!*
 
